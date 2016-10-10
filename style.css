@@ -1,0 +1,49 @@
+
+
+h1 {
+color: FFA500;
+opacity:0.8;
+background-color:blue;
+width:70%;
+text-align:center;
+text-decoration: underline;
+font-size:70px;
+color:yellow
+font-family: arial;
+font-weight: bold;
+font-style:italic;
+margin-left: auto;
+margin-right: auto;
+overflow:scroll;
+}
+
+h2{
+text-align:center;
+background-color:lightblue;
+padding-right: 12cm;
+
+}
+
+p{
+  margin-left: 2cm;
+  font-family: verdana;
+  margin-bottom: 50px;
+}
+
+span#bob h3 {
+  text-align:center;
+  color: blue;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+ul{
+  list-style: square;
+}
+body {
+background-image: url("https://static.pexels.com/photos/6644/sea-water-ocean-waves.jpg");
+background-repeat: repeat;
+}
+strong{
+  font-size: 100pt;
+}
